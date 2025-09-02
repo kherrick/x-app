@@ -1,0 +1,5 @@
+https://kherrick.github.io/x-app/
+https://kherrick.github.io/x-app/2024/12/first-post/
+https://kherrick.github.io/x-app/2025/01/aurora-borealis/
+https://kherrick.github.io/x-app/2025/01/exercising-xslt/
+https://kherrick.github.io/x-app/2025/01/xpath-in-action/
